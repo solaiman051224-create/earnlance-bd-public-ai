@@ -1,0 +1,6 @@
+{
+  "name": "Earnlance BD",
+  "description": "ProfitFlow Investment Platform with VIP packages, instant bKash/Nagad transactions, daily tasks, and bilingual Bengali/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
